@@ -1,0 +1,21 @@
+[Arms Deal]
+  Slaughter
+  Fade
+  Vanilla
+  Case Hardened
+  Crimson Web
+  Blue Steel
+  Forest DDPAT
+  Stained
+  Urban Masked
+  Scorched
+  Night
+  Boreal Forest
+  Safari Mesh
+[Chroma]
+  Damascus Steel (Rare)
+  Doppler (Legendary)
+  Marble Fade (Legendary)
+  Tiger Tooth (Legendary)
+  Rust Coat (Rare)
+  Ultraviolet (Rare)

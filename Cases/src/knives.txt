@@ -1,0 +1,17 @@
+[Arms Deal]
+  Bayonet
+  Flip Knife
+  Gut Knife
+  Karambit
+  M9 Bayonet
+[Spectrum]
+  Bowie Knife
+  Butterfly Knife
+  Falchion Knife
+  Shadow Daggers
+  Huntsman Knife
+[Horizon]
+  Navaja Knife
+  Stiletto Knife
+  Ursus Knife
+  Talon Knife

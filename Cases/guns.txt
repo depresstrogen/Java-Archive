@@ -1,0 +1,87 @@
+[Bravo]
+(Blues)
+  G3SG1 | Dementer
+  Dual Berettas | Black Limba
+  Nova | Tempest
+  UMP-45 | Bone Pile
+  Galil AR | Shattered
+  SG 553 | Wave Spray
+(Purples)
+  M4A1-S | Bright Water
+  M4A4 | Zirka
+  MAC 10 | Graven
+  USP-S | Overgrowth
+(Pinks)
+  P2000 | Ocean Foam
+  AWP | Graphite
+  P90 | Emerald Dragon
+(Reds)
+  Desert Eagle | Golden Koi
+  AK-47 | Fire Serpent
+[Spectrum 2]
+(Blues)
+  Sawed-Off | Morris
+  AUG | Triqua
+  G3SG1 | Hunter
+  Glock-18 | Off World
+  Mac-10 | Oceanic
+  Tec-9 | Cracked Opal
+  SCAR-20 | Jungle Slipstream
+(Purples)
+  MP9 | Goo
+  SG 553 | Phantom
+  CZ75-Auto | Tacticat
+  UMP-45 | Exposure
+  XM1014 | Ziggy
+(Pinks)
+  PP-Bizon | High Roller
+  M4A1-S | Leaded Glass
+  R8 Revolver | Llama Cannon
+(Reds)
+  AK-47 | The Empress
+  P250 | See Ya Later
+[Danger Zone]
+(Blues)
+  Nova | Wood Fired
+  Sawed-Off | Black Sand
+  MP9 | Modest Threat
+  SG 553 | Danger Close
+  Tec-9 | Fubar
+  Glock-18 | Oxide Blaze
+  M4A4 | Magnesium
+(Purples)
+  G3SG1 | Scavenger
+  MAC-10 | Pipe Down
+  Galil AR | Signal
+  P250 | Nevermore
+  USP-S | Flashback
+(Pinks)
+  UMP-45 | Momentum
+  MP5-SD | Phosphor
+  Desert Eagle | Mecha Industries
+(Reds)
+  AWP | Neo-Noir
+  AK-47 | Asiimov
+[Prisma 2]
+(Blues)
+  R8 Revolver | Bone Forged
+  Negev | Prototype
+  CZ75-Auto | Distressed
+  MP5-SD | Desert Strike
+  AUG | Tom Cat
+  Desert Eagle | Blue Ply
+  AWP | Capillary
+(Purples)
+  SCAR-20 | Enforcer
+  P2000 | Acid Etched
+  Sawed-Off | Apocalypto
+  SSG 08 | Fever Dream
+  SG 553 | Darkwing
+(Pinks)
+  MAG-7 | Justice
+  MAC-10 | Disco Tech
+  AK-47 | Phantom Disruptor
+(Reds)
+  Glock-18 | Bullet Queen
+  M4A1-S | Player Two
+  
