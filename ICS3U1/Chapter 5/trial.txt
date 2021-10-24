@@ -1,0 +1,20 @@
+Things 'n Walls
+0 0 3 20
+50
+
+
+becker.robots.Wall 1 4 West
+becker.robots.Wall 1 7 West
+becker.robots.Wall 1 9 West
+becker.robots.Wall 1 12 West
+becker.robots.Wall 1 14 West
+
+  
+
+becker.robots.Thing 1 2
+becker.robots.Thing 1 3
+becker.robots.Thing 1 8
+becker.robots.Thing 1 13
+
+
+

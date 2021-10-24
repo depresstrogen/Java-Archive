@@ -1,0 +1,20 @@
+﻿Cool City
+0 0 15 20
+40
+
+becker.robots.Thing 2 3
+becker.robots.Thing 2 4
+becker.robots.Thing 2 5
+becker.robots.Thing 2 6
+becker.robots.Thing 2 7
+becker.robots.Thing 2 8
+becker.robots.Thing 2 9
+becker.robots.Thing 2 10
+becker.robots.Thing 2 11
+becker.robots.Thing 2 12
+becker.robots.Thing 2 13
+becker.robots.Thing 2 14
+becker.robots.Thing 2 15
+becker.robots.Thing 2 16
+becker.robots.Thing 2 17
+becker.robots.Thing 2 18

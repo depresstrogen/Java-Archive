@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel = "stylesheet" href= "form.css">
+    <title>Form</title>
+    <script>
+    // Makes function named roast (the 2 variables)
+      function roast(firstName, yourAge){
+    // Makes alert pop up with that text and those varibles
+        alert("Hello " + firstName + "! You have been a disappointment for "+ yourAge + " years!");
+      }
+    // Only needed for more than one function
+      end
+    // Makes function named ass XD (the 2 variables)
+      function ass(firstName, yourAge){
+    // Makes alert pop up with that text and those varibles
+        alert("Hello " + firstName + ", you are " + yourAge + " years old");
+      }
+      end
+    </script>
+  </head>
+  <body>
+    <form>
+    <!-- First name Text -->
+      <p>First name:
+    <!-- The first text box -->
+      <input type "input" name="firstName">
+    <!-- Age Text -->
+      <p>Age:
+    <!-- The age text box, makes whatever is in  -->
+      <input type "input" name="yourAge">
+      <br>
+      <!-- First Button-->
+      <p>
+      <input
+      type = "button"
+      onclick = "ass(form.firstName.value,form.yourAge.value)";
+      value = "&#128164; The Actual Assignment &#128164;"></p>
+      <!-- Hard Part End-->
+      <!-- For r/RoastMe-->
+      <input
+      type = "button"
+      onclick = "roast(form.firstName.value,form.yourAge.value)";
+      value = "&#128293; Roast Me! &#128293;"></p>
+    </form>
+  </body>
+</html>
