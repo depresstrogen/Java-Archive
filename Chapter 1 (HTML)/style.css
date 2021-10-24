@@ -1,0 +1,78 @@
+p {
+	color: white;
+}
+
+a {
+	color: white;
+}
+ul {
+	color: white;
+	text-align: center;
+}
+
+th {
+	color: white;
+	text-align: center;
+}
+
+td {
+	color: white;
+	text-align: center;
+}
+
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+	color:white;
+	text-align: center;
+	width:100%
+}
+
+body {
+  animation-name: cool;
+  animation-duration: 15s;
+	animation-iteration-count: infinite;
+}
+
+.coolbox {
+	width: 500px;
+	margin: auto;
+	text-align: center;
+  background-color: gray;
+  border: 5px solid black;
+  display: cool;
+	animation-name: rainbow;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+
+.titlebox {
+	width: 300px;
+	float: right;
+	text-align: center;
+  background-color: darkgray;
+  border: 5px solid black;
+  display: cool;
+	animation-name: rainbow;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+
+@keyframes cool {
+	0% {background-color: black;}
+  	25% {background-color: rgb(50, 50, 50);}
+	50% {background-color: black;}
+	75% {background-color: rgb(0, 0, 100);}
+	100% {background-color: black;}
+}
+
+@keyframes rainbow {
+	0% {background-color: red;}
+  	20% {background-color: orange;}
+	40% {background-color: yellow;}
+	60% {background-color: green;}
+	80% {background-color: blue;}
+	100% {background-color: red;}
+}

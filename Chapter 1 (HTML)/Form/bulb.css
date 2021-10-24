@@ -1,0 +1,30 @@
+@keyframes cool {
+	0% {background-color: #5264FF;}
+	50% {background-color: #424FC9;}
+	100% {background-color: #5264FF;}
+}
+
+body {
+  animation-name: cool;
+  animation-duration: 8s;
+	animation-iteration-count: infinite;
+}
+
+/* For The cool shadows, bckground colour and rounded edges*/
+input {
+  padding: 20px 20px;
+  font-size: 24px;
+  text-align: center;
+  color: #fff;
+  background-color: #FF0000;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+/* For the box dropping down and changin color*/
+input:active {
+	background-color: #A50000;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
